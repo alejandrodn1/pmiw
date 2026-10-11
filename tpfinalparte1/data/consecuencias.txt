@@ -1,0 +1,8 @@
+Pierde tiempo, pero intenta controlar el veneno.
+Gana tiempo, pero el veneno sigue avanzando.
+Avanza más rápido, pero se agota más.
+Puede encontrar ayuda, pero pierde tiempo.
+Recupera algo de fuerza, pero pierde tiempo.
+Mantiene el avance, pero su cuerpo se deteriora más rápidamente.
+Hace un último esfuerzo. Quiere llegar y pedir ayuda.
+Ya no puede más. Se deja llevar sin rumbo, confiando en el río.
